@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Me Gentil Ribeiro </h2>
+<h2 align="left">Olá 👋! Me chamo Gentil Ribeiro </h2>
 
 ### "Em algum lugar, algo incrível está esperando para ser descoberto" - Carl Segan 🌍😉
 
