@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/7de3ac96-5eb1-41bb-9961-b5035ae2705c" alt="animated" />
 </p>
 
-Cientista de Dados em formação com experiência prática em desenvolvimento de soluções baseadas em dados, visualização analítica e construção de modelos preditivos. Atualmente cursando MBA em Ciência de Dados e Inteligência Artificial, com foco na aplicação de Python em todo o ciclo de tratamento, análise e modelagem de dados.
+Cientista de Dados com experiência prática em desenvolvimento de soluções baseadas em dados, visualização analítica e construção de modelos preditivos. Atualmente cursando MBA em Ciência de Dados e Inteligência Artificial, com foco na aplicação de Python em todo o ciclo de tratamento, análise e modelagem de dados.
 
 Tenho desenvolvido projetos com uso de ferramentas como Pandas, NumPy, Matplotlib, Streamlit e técnicas de aprendizado de máquina e deep learning. Atuei em aplicações que envolvem análise orçamentária, predição de preços, geração de conteúdo com IA generativa e integração de dados em tempo real com bancos NoSQL e APIs externas.
 
